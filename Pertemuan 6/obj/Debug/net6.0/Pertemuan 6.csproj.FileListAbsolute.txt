@@ -1,0 +1,15 @@
+D:\PEMROGRAMAN\Pertemuan 6\Pertemuan 6\Pertemuan 6\bin\Debug\net6.0\Pertemuan 6.exe
+D:\PEMROGRAMAN\Pertemuan 6\Pertemuan 6\Pertemuan 6\bin\Debug\net6.0\Pertemuan 6.deps.json
+D:\PEMROGRAMAN\Pertemuan 6\Pertemuan 6\Pertemuan 6\bin\Debug\net6.0\Pertemuan 6.runtimeconfig.json
+D:\PEMROGRAMAN\Pertemuan 6\Pertemuan 6\Pertemuan 6\bin\Debug\net6.0\Pertemuan 6.dll
+D:\PEMROGRAMAN\Pertemuan 6\Pertemuan 6\Pertemuan 6\bin\Debug\net6.0\Pertemuan 6.pdb
+D:\PEMROGRAMAN\Pertemuan 6\Pertemuan 6\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.csproj.AssemblyReference.cache
+D:\PEMROGRAMAN\Pertemuan 6\Pertemuan 6\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\PEMROGRAMAN\Pertemuan 6\Pertemuan 6\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.AssemblyInfoInputs.cache
+D:\PEMROGRAMAN\Pertemuan 6\Pertemuan 6\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.AssemblyInfo.cs
+D:\PEMROGRAMAN\Pertemuan 6\Pertemuan 6\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.csproj.CoreCompileInputs.cache
+D:\PEMROGRAMAN\Pertemuan 6\Pertemuan 6\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.dll
+D:\PEMROGRAMAN\Pertemuan 6\Pertemuan 6\Pertemuan 6\obj\Debug\net6.0\refint\Pertemuan 6.dll
+D:\PEMROGRAMAN\Pertemuan 6\Pertemuan 6\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.pdb
+D:\PEMROGRAMAN\Pertemuan 6\Pertemuan 6\Pertemuan 6\obj\Debug\net6.0\Pertemuan 6.genruntimeconfig.cache
+D:\PEMROGRAMAN\Pertemuan 6\Pertemuan 6\Pertemuan 6\obj\Debug\net6.0\ref\Pertemuan 6.dll
